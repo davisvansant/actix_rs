@@ -1,4 +1,5 @@
 [workspace]
 members = [
   "getting_started",
+  "application"
 ]
