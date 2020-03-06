@@ -1,0 +1,8 @@
+kind: pipeline
+name: default
+
+steps:
+- name: actix_rs
+  image: rust:1.41.1
+  commands:
+  - cargo test --verbose --workspace
