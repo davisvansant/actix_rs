@@ -3,5 +3,6 @@ members = [
   "getting_started",
   "application",
   "server",
-  "handlers"
+  "handlers",
+  "extractors"
 ]
