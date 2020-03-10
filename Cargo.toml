@@ -4,5 +4,6 @@ members = [
   "application",
   "server",
   "handlers",
-  "extractors"
+  "extractors",
+  "errors"
 ]
