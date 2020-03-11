@@ -8,5 +8,6 @@ members = [
   "errors",
   "url_dispatch",
   "requests",
-  "responses"
+  "responses",
+  "testing"
 ]
