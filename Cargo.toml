@@ -11,5 +11,6 @@ members = [
   "responses",
   "testing",
   "middleware",
-  "static_files"
+  "static_files",
+  "websockets"
 ]
