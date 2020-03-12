@@ -9,5 +9,6 @@ members = [
   "url_dispatch",
   "requests",
   "responses",
-  "testing"
+  "testing",
+  "middleware"
 ]
