@@ -10,5 +10,6 @@ members = [
   "requests",
   "responses",
   "testing",
-  "middleware"
+  "middleware",
+  "static_files"
 ]
